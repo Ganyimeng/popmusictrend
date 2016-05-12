@@ -1,0 +1,947 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"son",
+				"song_id〔variable〕"
+			],
+			[
+				"song",
+				"song_id"
+			],
+			[
+				"set",
+				"set_index"
+			],
+			[
+				"_",
+				"__getattr__"
+			],
+			[
+				"get",
+				"get_item"
+			],
+			[
+				"res",
+				"result〔variable〕"
+			],
+			[
+				"taskrequest",
+				"taskrequesttime"
+			],
+			[
+				"pwr",
+				"pwrrow〔variable〕"
+			],
+			[
+				"TA",
+				"TASKREQUESTID"
+			],
+			[
+				"TASK",
+				"TASKREQUESTTIME"
+			],
+			[
+				"te",
+				"terminal_id"
+			],
+			[
+				"R",
+				"RTerminals"
+			],
+			[
+				"L",
+				"LTerminals"
+			],
+			[
+				"terminal",
+				"terminals〔variable〕"
+			],
+			[
+				"re",
+				"recvlen〔variable〕"
+			],
+			[
+				"rec",
+				"recvbuf〔variable〕"
+			],
+			[
+				"fil",
+				"filedirs〔argument〕"
+			],
+			[
+				"file",
+				"filedirs〔variable〕"
+			],
+			[
+				"f",
+				"fftpack〔module〕"
+			],
+			[
+				"sub",
+				"subtask[7"
+			],
+			[
+				"2",
+				"2.0"
+			],
+			[
+				"filedir",
+				"filedirs〔variable〕"
+			],
+			[
+				"fi",
+				"filedirs〔variable〕"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"termin",
+				"terminal_id〔variable〕"
+			],
+			[
+				"poa",
+				"poa_result〔variable〕"
+			],
+			[
+				"corr",
+				"correlate〔module〕"
+			],
+			[
+				"sort",
+				"sorted_cc"
+			],
+			[
+				"so",
+				"sorted_cc〔variable〕"
+			],
+			[
+				"norm",
+				"norm_s0"
+			],
+			[
+				"core",
+				"correlate"
+			],
+			[
+				"n",
+				"nodes"
+			],
+			[
+				"max",
+				"max_depth"
+			],
+			[
+				"y_",
+				"y_test"
+			],
+			[
+				"y",
+				"y_test"
+			],
+			[
+				"x",
+				"x_train"
+			],
+			[
+				"min",
+				"minX〔variable〕"
+			],
+			[
+				"read",
+				"readlines〔function〕"
+			],
+			[
+				"date",
+				"date0"
+			],
+			[
+				"tm",
+				"tm_sec"
+			],
+			[
+				"result",
+				"result1"
+			],
+			[
+				"id",
+				"idstrlist〔variable〕"
+			],
+			[
+				"dat",
+				"datastr〔variable〕"
+			],
+			[
+				"ID",
+				"IDlist〔variable〕"
+			],
+			[
+				"d",
+				"dumps〔function〕"
+			],
+			[
+				"data",
+				"datastr"
+			],
+			[
+				"l",
+				"loads〔function〕"
+			],
+			[
+				"json",
+				"jsonstr〔variable〕"
+			],
+			[
+				"ts",
+				"tsSorted"
+			],
+			[
+				"pm",
+				"pm_noise〔variable〕"
+			],
+			[
+				"num",
+				"numTerminal〔variable〕"
+			],
+			[
+				"nom",
+				"normal〔module〕"
+			],
+			[
+				"locm",
+				"locms〔argument〕"
+			],
+			[
+				"G",
+				"GpartialGamma"
+			],
+			[
+				"log",
+				"log10"
+			],
+			[
+				"loc",
+				"locms〔variable〕"
+			],
+			[
+				"rean",
+				"read〔function〕"
+			],
+			[
+				"mid",
+				"midVec〔variable〕"
+			],
+			[
+				"sor",
+				"sortedIndex〔variable〕"
+			],
+			[
+				"da",
+				"dataset〔variable〕"
+			],
+			[
+				"__",
+				"__name__ == '__main__':〔variable〕"
+			],
+			[
+				"None",
+				"None〔keyword〕"
+			],
+			[
+				"g",
+				"generateRules〔function〕"
+			],
+			[
+				"c",
+				"createC1〔function〕"
+			],
+			[
+				"class",
+				"class_matchset〔variable〕"
+			],
+			[
+				"id_",
+				"id_index〔variable〕"
+			],
+			[
+				"w",
+				"write〔function〕"
+			],
+			[
+				"item",
+				"item_id〔variable〕"
+			],
+			[
+				"tet_item",
+				"test_items"
+			],
+			[
+				"No",
+				"None〔keyword〕"
+			],
+			[
+				"v",
+				"vbeta"
+			],
+			[
+				"ND",
+				"NDsum〔variable〕"
+			],
+			[
+				"foo",
+				"foo2"
+			],
+			[
+				"thr",
+				"threads"
+			],
+			[
+				"i",
+				"i_range"
+			],
+			[
+				"t",
+				"t_start"
+			],
+			[
+				"cut",
+				"cut_words〔variable〕"
+			],
+			[
+				"m",
+				"model"
+			],
+			[
+				"sp",
+				"split('\\t"
+			],
+			[
+				"u",
+				"user_data_temp"
+			],
+			[
+				"co",
+				"comment_count"
+			],
+			[
+				"user_",
+				"user_data_temp"
+			],
+			[
+				"user",
+				"user_data_temp〔variable〕"
+			],
+			[
+				"weibo",
+				"weibo_data_temp〔variable〕"
+			],
+			[
+				"wei",
+				"weibo_data"
+			],
+			[
+				"py",
+				"pyplot〔module〕"
+			],
+			[
+				"mat",
+				"matplotlib〔module〕"
+			],
+			[
+				"kfkd",
+				"kfkd_cnn_specialists〔module〕"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"img",
+				"imgs〔variable〕"
+			],
+			[
+				"fr",
+				"fromarray"
+			],
+			[
+				"load",
+				"load2d〔module〕"
+			],
+			[
+				"plot",
+				"plotloss〔function〕"
+			],
+			[
+				"net",
+				"net_cnn"
+			],
+			[
+				"a",
+				"AdjustVariable〔class〕"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"ra",
+				"raw_input〔function〕"
+			],
+			[
+				"layer",
+				"layer_name〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "code.py",
+			"settings":
+			{
+				"buffer_size": 1951,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n***Repl Killed***\n",
+			"settings":
+			{
+				"buffer_size": 19,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"openre",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"sublime",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 725.0
+	},
+	"console":
+	{
+		"height": 178.0,
+		"history":
+		[
+			"from matplotlib import pyplot",
+			"print",
+			"import kfkd.py",
+			"import kfkd",
+			"kfkd.py",
+			"python",
+			"run",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"packagecontrol.io",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/python_projects/流行音乐趋势/code"
+	],
+	"file_history":
+	[
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/User/Pylinter.sublime-settings",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/Pylinter/Pylinter.sublime-settings",
+		"/E/python_projects/流行音乐趋势/code/code.py",
+		"/E/TDOA/code/server.py",
+		"/E/TDOA/code/poa.py",
+		"/E/TDOA/code/GetBinFile.py",
+		"/E/TDOA/code/message.py",
+		"/E/TDOA/code/BinFileTest.py",
+		"/E/TDOA/code/testtdoa.py",
+		"/D/Desktop/hehe.py",
+		"/E/TDOA/code/genIQ.py",
+		"/E/TDOA/code/genPwrs.py",
+		"/E/TDOA/code/oracle_test.py",
+		"/E/TDOA/code/POAServer.py",
+		"/E/POA/code/POAServer/poa_funcs.py",
+		"/E/TDOA/code/tdoa_funcs.py",
+		"/E/TDOA/code/sim_input_gen.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.179/tree.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/tree/setup.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.953/setup.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/sklearn/tree/tree.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/sklearn/tree/__init__.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.777/tree.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.847/tree.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/tree/tree.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.322/setup.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.243/tree.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.933/setup.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.354/setup.py",
+		"/D/Desktop/tree/setup.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/utils/arpack.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.356/setup.py",
+		"/E/python_projects/facial keypoints detection/kfkd_cnn.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.294/__init__.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/tree_with_pruncing/tree.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/tree/tree_with_pruncing.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/tree_with_pruncing/setup.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/setup.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/tree/__init__.py",
+		"/E/POA/code/POAServer/POAServer.py",
+		"/E/POA/code/POAServer/poa.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/pandas/core/frame.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/pandas/io/parsers.py",
+		"/C/Users/gan/Desktop/springer.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/cx_Freeze/__init__.py",
+		"/E/python_projects/SF crime classification/code/code.py",
+		"/F/POA/code/server.py",
+		"/C/Users/gan/Desktop/server.py",
+		"/E/python_projects/weibo_predict/lda_multi_cpu.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/numpy/__init__.py",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/E/POA/code/testPOA.py",
+		"/E/POA/code/sim_input_gen.py",
+		"/E/POA/data/terminalinfo.txt",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/json/__init__.py",
+		"/E/POA/code/hehe.java",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/Java/JavaC.sublime-build",
+		"/C/Users/gan/Desktop/hehe.java",
+		"/C/Users/gan/Desktop/[shell_cmd",
+		"/C/Users/gan/Desktop/[path",
+		"/C/Program Files/Java/jre1.8.0_60/bin/runJava.bat",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/pickle.py",
+		"/E/POA/code/poa.py",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/ipy_repl.py",
+		"/E/python_projects/basic_ml_practice/k-neighbors/kdtree.py",
+		"/C/Users/gan/workspace/mechine learning practice/Ch03/trees.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/neighbors/classification.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/neighbors/graph.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/neighbors/kde.py",
+		"/C/Users/gan/workspace/mechine learning practice/Ch06/notLinSeperable.py",
+		"/C/Users/gan/workspace/mechine learning practice/Ch06/svmMLiA.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/decomposition/sparse_pca.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/sklearn/decomposition/pca.py",
+		"/E/python_projects/clothe_match/pca_cluster.py",
+		"/E/python_projects/clothe_match/apriori/apriori_shell.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/feature_extraction/text.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/utils/sparsetools/_graph_validation.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/utils/sparsefuncs.py",
+		"/E/python_projects/clothe_match/arrange_matchset.py",
+		"/E/python_projects/clothe_match/fpgrowth/fpgrowth_shell.py",
+		"/E/python_projects/clothe_match/user_history.py",
+		"/E/python_projects/clothe_match/fpgrowth/fpGrowth.py",
+		"/C/Users/gan/workspace/mechine learning practice/Ch14/svdRec.py",
+		"/E/python_projects/clothe_match/fpgrowth/apriori_shell.py",
+		"/E/python_projects/clothe_match/apriori/apriori.py",
+		"/E/python_projects/clothe_match/classify_pics.py",
+		"/E/python_projects/clothe_match/lda.py",
+		"/E/python_projects/clothe_match/check_index.py",
+		"/E/python_projects/clothe_match/resize_pic.py",
+		"/C/Users/gan/Desktop/resize_pic.py",
+		"/E/python_projects/clothe_match/cluster_pic.py",
+		"/E/python_projects/weibo_predict/extra_features.py",
+		"/E/python_projects/weibo_predict/wb_pre.py",
+		"/E/python_projects/chuanyidapei/image_test.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/feature_extraction/image.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/lda.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/decomposition/pca.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/cluster/setup.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/skimage/filter/__init__.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/feature_extraction/tests/test_image.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/feature_extraction/tests/test_text.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/feature_extraction/tests/__init__.py",
+		"/E/python_projects/chuanyidapei/lda.py",
+		"/E/python_projects/leetcode/add_digits.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/scipy/signal/filter_design.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/scipy/signal/benchmarks/bench_convolve2d.py",
+		"/C/Users/gan/Desktop/scipy_test.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/scipy/signal/tests/test_array_tools.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/scipy/signal/signaltools.py",
+		"/E/python_projects/weibo_predict/lda.py",
+		"/E/python_projects/weibo_predict/train.py",
+		"/E/python_projects/weibo_predict/theanotest.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/codecs.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/theano-0.7.0-py2.7.egg/theano/tensor/__init__.py",
+		"/E/python_projects/weibo_predict/setting.conf",
+		"/C/Users/gan/Desktop/class_test.py",
+		"/E/python_projects/weibo_predict/stop.txt",
+		"/E/python_projects/weibo_predict/settings_multicpu.conf",
+		"/C/Users/gan/Desktop/thread_test.py",
+		"/C/Users/gan/Desktop/test.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/multiprocessing/__init__.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/Queue.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/feature_extraction/stop_words.py"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"coding",
+			"ascii",
+			"filedirs",
+			"terminals are not enough",
+			"center",
+			"rate_table",
+			"fs",
+			"XYZ2LBH",
+			"LBH2XYZ",
+			"terminals are not enough",
+			"\n# plt.show()",
+			"cursor",
+			"self.data",
+			"fs",
+			"pi",
+			"C",
+			"homodata",
+			"\n=",
+			"\n ",
+			"DDDD",
+			"tt",
+			"array2d",
+			"check_array",
+			"prune",
+			"pruning",
+			"prunc",
+			"array2d",
+			"_tree",
+			"Tree",
+			"tree_",
+			"_tree",
+			"draw",
+			"export",
+			"graphviz",
+			"fit",
+			"length",
+			"len",
+			"5",
+			"10",
+			"vector",
+			"分享",
+			"stop",
+			"*",
+			"set_stop_words",
+			"toggle",
+			"心灵",
+			"鸡汤",
+			"reader",
+			"class",
+			"class reader",
+			"writer",
+			"for",
+			"**",
+			"layer_factory",
+			"eval_size",
+			"X",
+			"lasagne",
+			"load",
+			"figure",
+			"p",
+			"pyt",
+			"python",
+			"ctrl+shift+b"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"def"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "code.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1883,
+								1883
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 900.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_indent": false,
+							"default_dir": "E:\\python_projects\\流行音乐趋势\\code",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "9df88bf31d394e819d13dd143d846c46",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-i",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.525061124694,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "popmusictrendpredict.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
